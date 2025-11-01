@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-hm-7/static/css/main.f855e6bc.css",
+    "main.js": "/react-hm-7/static/js/main.df593d32.js",
+    "index.html": "/react-hm-7/index.html",
+    "main.f855e6bc.css.map": "/react-hm-7/static/css/main.f855e6bc.css.map",
+    "main.df593d32.js.map": "/react-hm-7/static/js/main.df593d32.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.df593d32.js"
+  ]
+}
